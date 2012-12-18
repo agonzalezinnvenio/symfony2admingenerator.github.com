@@ -51,7 +51,7 @@ params:
   bundle_name: DemoBundle
   fields: 
     is_published:
-      help: If you want to see this content on you website
+      help: If you want to see this content on your website
     actors:
       filterOn: actors.id
     producer:
